@@ -14,6 +14,8 @@ MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hanseltritama/.gradle/ca
 MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta04] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/1ef26fa3cc671a97493ddd5d817848d4/viewpager2-1.0.0-beta04/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/7a2312fa9057ec8df1a44af8d41bdf29/recyclerview-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/efc736dad0ca4bed6b3e94537e40185c/navigation-fragment-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/f6a53a2d27d70ec9460c933283963aec/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/a56b5a209b891615bcd37b7748bce12f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/d9eecd7c3dcb1db0c9335fdfaf29f0d2/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.0.1] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/93882f432f93df7a1e05e6c800de2b73/transition-1.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/2bc690e71bf41a641872bb813ab9cdb5/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -24,12 +26,17 @@ MERGED from [androidx.fragment:fragment-ktx:1.1.0] /Users/hanseltritama/.gradle/
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/e0a03a656b67b0201ad8020d68982f14/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cbf35a2d6ff81c814a061e43e40879ca/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/51e1ae46bc51e6e589953c5be0861ae5/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c937b71ac71dd7e654e83d9f674f1bd5/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c013f33700924895dda28e7663bed895/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/589f6e5002a871c07fd3535f5c322f03/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c6eafbf55b5bac91805f3be79d7c820e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/1e64af41a1610d57f0aba89c4bdaefc5/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/2f495be95f91635f56500fadd1a87cf0/navigation-runtime-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/f7532962f0b6f791205e589a9ac85993/navigation-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity-ktx:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/349675e4fc683fece19118fa918402fe/activity-ktx-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/7737801f988d26750f19d3c356db79a2/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/96a4ab4a8ba0a52c66a81fc1c8048120/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/9c304eeacff29dd7c6f9f89cdb9f03c9/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/190367359d6f4051a2dbd4ed13610885/navigation-common-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0eefcea108bdd6c9613b7d9d448d2b42/navigation-common-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/5ce096ab05af6771f5bef40d06cb3587/core-1.1.0/AndroidManifest.xml:17:1-26:12
@@ -39,8 +46,11 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] /Users/hanseltrit
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/bfd1639417683b4d6c03bcb880dc10b9/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/f2a5417ae6c981e8b09d972acd12c963/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/d3b7fd84b6dd15d1ddabfda40e392ba8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cdd511a2ecda485d0e09493e0bcc2bc2/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cdb215c4b98c3e7412b671a5407274c8/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/a16959f9e45de84fd6a8c750fcd8f7c8/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/52dec5cd5df98107ab85078c663edacc/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c9065d10d5e5a74eff4ae45624e56ecd/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cdd511a2ecda485d0e09493e0bcc2bc2/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/4161e093724558ba0e04f775eff60ce8/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/372189fe2379dd2630475dd3aa08e493/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c9662b8d4ddc2dfbf3e46777b7e33639/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
@@ -99,10 +109,10 @@ ADDED from /Users/hanseltritama/Documents/NavigationComponent/app/src/main/Andro
 		ADDED from /Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.DEFAULT
 ADDED from /Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:32:17-76
-ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 	android:name
 		ADDED from /Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:32:27-73
-		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 category#android.intent.category.LAUNCHER
 ADDED from /Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:33:17-77
 	android:name
@@ -152,6 +162,10 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/hanseltritama
 MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/7a2312fa9057ec8df1a44af8d41bdf29/recyclerview-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/efc736dad0ca4bed6b3e94537e40185c/navigation-fragment-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/efc736dad0ca4bed6b3e94537e40185c/navigation-fragment-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/f6a53a2d27d70ec9460c933283963aec/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/f6a53a2d27d70ec9460c933283963aec/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/a56b5a209b891615bcd37b7748bce12f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/a56b5a209b891615bcd37b7748bce12f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/d9eecd7c3dcb1db0c9335fdfaf29f0d2/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/d9eecd7c3dcb1db0c9335fdfaf29f0d2/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.0.1] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/93882f432f93df7a1e05e6c800de2b73/transition-1.0.1/AndroidManifest.xml:20:5-44
@@ -172,8 +186,14 @@ MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanseltritama/.gra
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cbf35a2d6ff81c814a061e43e40879ca/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/51e1ae46bc51e6e589953c5be0861ae5/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/51e1ae46bc51e6e589953c5be0861ae5/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c937b71ac71dd7e654e83d9f674f1bd5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c937b71ac71dd7e654e83d9f674f1bd5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c013f33700924895dda28e7663bed895/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c013f33700924895dda28e7663bed895/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/589f6e5002a871c07fd3535f5c322f03/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/589f6e5002a871c07fd3535f5c322f03/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c6eafbf55b5bac91805f3be79d7c820e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c6eafbf55b5bac91805f3be79d7c820e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/1e64af41a1610d57f0aba89c4bdaefc5/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/1e64af41a1610d57f0aba89c4bdaefc5/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/2f495be95f91635f56500fadd1a87cf0/navigation-runtime-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
@@ -184,6 +204,10 @@ MERGED from [androidx.activity:activity-ktx:1.0.0] /Users/hanseltritama/.gradle/
 MERGED from [androidx.activity:activity-ktx:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/349675e4fc683fece19118fa918402fe/activity-ktx-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/7737801f988d26750f19d3c356db79a2/activity-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/7737801f988d26750f19d3c356db79a2/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/96a4ab4a8ba0a52c66a81fc1c8048120/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/96a4ab4a8ba0a52c66a81fc1c8048120/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/9c304eeacff29dd7c6f9f89cdb9f03c9/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/9c304eeacff29dd7c6f9f89cdb9f03c9/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/190367359d6f4051a2dbd4ed13610885/navigation-common-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/190367359d6f4051a2dbd4ed13610885/navigation-common-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0eefcea108bdd6c9613b7d9d448d2b42/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
@@ -202,10 +226,16 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanseltritama/.g
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/f2a5417ae6c981e8b09d972acd12c963/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/d3b7fd84b6dd15d1ddabfda40e392ba8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/d3b7fd84b6dd15d1ddabfda40e392ba8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cdd511a2ecda485d0e09493e0bcc2bc2/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cdd511a2ecda485d0e09493e0bcc2bc2/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cdb215c4b98c3e7412b671a5407274c8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cdb215c4b98c3e7412b671a5407274c8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/a16959f9e45de84fd6a8c750fcd8f7c8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/a16959f9e45de84fd6a8c750fcd8f7c8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/52dec5cd5df98107ab85078c663edacc/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/52dec5cd5df98107ab85078c663edacc/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c9065d10d5e5a74eff4ae45624e56ecd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/c9065d10d5e5a74eff4ae45624e56ecd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cdd511a2ecda485d0e09493e0bcc2bc2/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cdd511a2ecda485d0e09493e0bcc2bc2/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/4161e093724558ba0e04f775eff60ce8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/4161e093724558ba0e04f775eff60ce8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/372189fe2379dd2630475dd3aa08e493/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
@@ -223,24 +253,24 @@ INJECTED from /Users/hanseltritama/Documents/NavigationComponent/app/src/main/An
 		ADDED from /Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.example.com+data:pathPrefix:/+data:scheme:http+data:scheme:https
-ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 action#android.intent.action.VIEW
-ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 	android:name
-		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 category#android.intent.category.BROWSABLE
-ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 	android:name
-		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 data
-ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
-ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
-ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
-ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
+ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
+ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
+ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 	android:host
-		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 	android:scheme
-		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
-		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
+		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 	android:pathPrefix
-		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+		ADDED from [mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55

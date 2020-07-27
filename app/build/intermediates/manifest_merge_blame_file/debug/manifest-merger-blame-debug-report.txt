@@ -58,30 +58,30 @@
 40-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:33:27-74
 41            </intent-filter>
 42            <intent-filter>
-42-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+42-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 43                <action android:name="android.intent.action.VIEW" />
-43-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
-43-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+43-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
+43-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 44
 45                <category android:name="android.intent.category.DEFAULT" />
 45-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:32:17-76
 45-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:32:27-73
 46                <category android:name="android.intent.category.BROWSABLE" />
-46-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
-46-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+46-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
+46-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 47
 48                <data android:scheme="http" />
-48-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
-48-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+48-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
+48-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 49                <data android:scheme="https" />
-49-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
-49-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+49-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
+49-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 50                <data android:host="www.example.com" />
-50-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
-50-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+50-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
+50-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 51                <data android:pathPrefix="/" />
-51-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
-51-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+51-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
+51-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:62:9-55
 52            </intent-filter>
 53        </activity>
 54
