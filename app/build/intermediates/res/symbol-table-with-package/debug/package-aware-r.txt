@@ -1827,6 +1827,7 @@ id select_dialog_listview
 id selected
 id send_notification_button
 id setting_dest
+id settings_dest
 id shopping_cart
 id shortcut
 id showCustom
