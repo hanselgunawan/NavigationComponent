@@ -1,23 +1,23 @@
 [
     {
-        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/layout_test_reflow_chipgroup.xml.flat",
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/47c1b66ac9748c4cbe81f0ad14edb054/material-1.1.0-beta01/res/layout/test_reflow_chipgroup.xml"
+    },
+    {
+        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
-        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
-    },
-    {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/layout_mtrl_picker_header_toggle.xml.flat",
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/47c1b66ac9748c4cbe81f0ad14edb054/material-1.1.0-beta01/res/layout/mtrl_picker_header_toggle.xml"
+    },
+    {
+        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
+        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
     },
     {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -32,12 +32,12 @@
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/color_mtrl_tabs_colored_ripple_color.xml.flat",
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/47c1b66ac9748c4cbe81f0ad14edb054/material-1.1.0-beta01/res/color/mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -156,12 +156,12 @@
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/5ce096ab05af6771f5bef40d06cb3587/core-1.1.0/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
-        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/color-v23/abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable_ic_settings.xml.flat",
@@ -180,24 +180,24 @@
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/47c1b66ac9748c4cbe81f0ad14edb054/material-1.1.0-beta01/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_light.xml.flat",
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable_ic_mtrl_chip_close_circle.xml.flat",
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/47c1b66ac9748c4cbe81f0ad14edb054/material-1.1.0-beta01/res/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -224,12 +224,12 @@
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/47c1b66ac9748c4cbe81f0ad14edb054/material-1.1.0-beta01/res/interpolator/mtrl_linear.xml"
     },
     {
-        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/color_mtrl_navigation_item_text_color.xml.flat",
-        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/47c1b66ac9748c4cbe81f0ad14edb054/material-1.1.0-beta01/res/color/mtrl_navigation_item_text_color.xml"
-    },
-    {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
         "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/color_mtrl_navigation_item_text_color.xml.flat",
+        "source": "/Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/47c1b66ac9748c4cbe81f0ad14edb054/material-1.1.0-beta01/res/color/mtrl_navigation_item_text_color.xml"
     },
     {
         "merged": "/Users/hanseltritama/Documents/NavigationComponent/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_in.xml.flat",
