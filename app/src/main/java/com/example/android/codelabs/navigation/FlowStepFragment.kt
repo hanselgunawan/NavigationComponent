@@ -36,8 +36,6 @@ class FlowStepFragment : Fragment() {
     ): View? {
         setHasOptionsMenu(true)
 
-//        val flowStepNumber = arguments?.getInt("flowStepNumber")
-
         val safeArgs: FlowStepFragmentArgs by navArgs()
         val flowStepNumber = safeArgs.flowStepNumber
 
