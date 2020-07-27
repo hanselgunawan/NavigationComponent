@@ -26,7 +26,7 @@
 24-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml
 25
 26    <application
-26-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:21:5-52:19
+26-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:21:5-50:19
 27        android:allowBackup="false"
 27-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:22:9-36
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -42,7 +42,7 @@
 34        android:theme="@style/AppTheme" >
 34-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:26:9-40
 35        <activity android:name="com.example.android.codelabs.navigation.MainActivity" >
-35-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:28:9-40:20
+35-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:28:9-38:20
 35-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:28:19-47
 36            <intent-filter>
 36-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:29:13-34:29
@@ -57,30 +57,51 @@
 40-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:33:17-77
 40-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:33:27-74
 41            </intent-filter>
-42
-43            <!-- TODO STEP 11.2 -->
-44            <!-- <nav-graph android:value="@navigation/mobile_navigation" /> -->
-45            <!-- TODO END STEP 11.2 -->
-46
-47        </activity>
-48
-49        <receiver android:name="com.example.android.codelabs.navigation.DeepLinkAppWidgetProvider" >
-49-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:42:9-50:20
-49-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:42:19-60
-50            <intent-filter>
-50-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:43:13-45:29
-51                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-51-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:44:17-84
-51-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:44:25-81
+42            <intent-filter>
+42-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+43                <action android:name="android.intent.action.VIEW" />
+43-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+43-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+44
+45                <category android:name="android.intent.category.DEFAULT" />
+45-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:32:17-76
+45-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:32:27-73
+46                <category android:name="android.intent.category.BROWSABLE" />
+46-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+46-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+47
+48                <data android:scheme="http" />
+48-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+48-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+49                <data android:scheme="https" />
+49-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+49-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+50                <data android:host="www.example.com" />
+50-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+50-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+51                <data android:pathPrefix="/" />
+51-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
+51-->[mobile_navigation] /Users/hanseltritama/Documents/NavigationComponent/app/src/main/res/navigation/mobile_navigation.xml:80:9-55
 52            </intent-filter>
-53
-54            <meta-data
-54-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:47:13-49:68
-55                android:name="android.appwidget.provider"
-55-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:48:17-58
-56                android:resource="@xml/deep_link_appwidget_info" />
-56-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:49:17-65
-57        </receiver>
-58    </application>
+53        </activity>
+54
+55        <receiver android:name="com.example.android.codelabs.navigation.DeepLinkAppWidgetProvider" >
+55-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:40:9-48:20
+55-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:40:19-60
+56            <intent-filter>
+56-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:41:13-43:29
+57                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+57-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:42:17-84
+57-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:42:25-81
+58            </intent-filter>
 59
-60</manifest>
+60            <meta-data
+60-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:45:13-47:68
+61                android:name="android.appwidget.provider"
+61-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:46:17-58
+62                android:resource="@xml/deep_link_appwidget_info" />
+62-->/Users/hanseltritama/Documents/NavigationComponent/app/src/main/AndroidManifest.xml:47:17-65
+63        </receiver>
+64    </application>
+65
+66</manifest>
