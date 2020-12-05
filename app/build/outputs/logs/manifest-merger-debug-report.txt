@@ -7,7 +7,7 @@ INJECTED from /Users/hanseltritama/Documents/NavigationComponent/app/src/main/An
 MERGED from [androidx.databinding:databinding-adapters:3.5.2] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/870e8ec8f028f8cc7e15a1f239846f02/databinding-adapters-3.5.2/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:3.5.2] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/99bc3ce064693b55c17748907731582e/databinding-runtime-3.5.2/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/d578076a79566925ef89255599fe2b04/navigation-ui-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/b5be2fa06130db292dc73c52fa210f3d/jetified-navigation-ui-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/9faaa004318ee4f496ace7fa94bcc3ca/jetified-navigation-ui-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.1.0-beta01] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/47c1b66ac9748c4cbe81f0ad14edb054/material-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cfb2a65753a2ad4a9bacc3ffb689f4b7/constraintlayout-2.0.0-beta3/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/0be2696579db96c1ca2ce05229fd8df6/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -148,8 +148,8 @@ MERGED from [androidx.databinding:databinding-runtime:3.5.2] /Users/hanseltritam
 MERGED from [androidx.databinding:databinding-runtime:3.5.2] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/99bc3ce064693b55c17748907731582e/databinding-runtime-3.5.2/AndroidManifest.xml:22:5-44
 MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/d578076a79566925ef89255599fe2b04/navigation-ui-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/d578076a79566925ef89255599fe2b04/navigation-ui-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/b5be2fa06130db292dc73c52fa210f3d/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/b5be2fa06130db292dc73c52fa210f3d/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/9faaa004318ee4f496ace7fa94bcc3ca/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/9faaa004318ee4f496ace7fa94bcc3ca/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.1.0-beta01] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/47c1b66ac9748c4cbe81f0ad14edb054/material-1.1.0-beta01/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0-beta01] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/47c1b66ac9748c4cbe81f0ad14edb054/material-1.1.0-beta01/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] /Users/hanseltritama/.gradle/caches/transforms-2/files-2.1/cfb2a65753a2ad4a9bacc3ffb689f4b7/constraintlayout-2.0.0-beta3/AndroidManifest.xml:5:5-7:41
